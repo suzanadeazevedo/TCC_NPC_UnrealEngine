@@ -1,0 +1,10 @@
+Unreal Engine 5.7.4 - ano: 2026
+
+-O arquivo WBP_Timer cria o timer na tela, é comum aos dois arquivos que criam o teste, o Blueprint Actor BP_NPC_Spawner
+-O segundo node esta como "Create WBP Timer Widget", mas para adicionar o node, é preciso clicar com botão direito e procurar por "create widget", o nome do node é modificado pelo arquivo que será inserido no item Class, aqui deve ser inserido o arquivo Widget Blueprint usado para criar o Timer.
+
+
+-Foram criados dois arquivos para evitar ter que ficar trocando o  item "class" do node "SpawnActor From Class", no item Class deve ser colocado o Blueprint Character do npc, que se deseja testar, ele  modificara o nome do node para "Spawn Actor (nome do blueprint character)"
+
+-Após ser colocado no nível, clicar nele (BP_NPC_Spawner) e no painel details, ajustar parâmetros de quantos npcs deseja em cena,
+

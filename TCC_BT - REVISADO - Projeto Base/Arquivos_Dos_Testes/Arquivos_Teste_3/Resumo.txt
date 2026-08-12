@@ -1,0 +1,16 @@
+Unreal Engine 5.7.4 - Ano: 2026
+
+
+
+Este teste foi feito com Blueprint Functional Test
+
+Nome do arquivo: BTChaseEfficacyTest
+
+-Foram criados dois arquivos, para não precisar mudar o node "Get All Actor of Class", onde se coloca o Blueprint Character do NPC no item Actor Class,
+-Os nodes sequenciais a ele: "For Each Loop" e Set (Test Ref), precisam ser adicionados novamente, quando muda-se o arquivo do Actor Class no node "Get All Actor of Class".
+-Para evitar ter que ficar refazendo, sempre que quisesse voltar ao teste, foi optado pela criação de dois arquivos.  
+
+-Quando adicionar o BTChaseEfficacyTest no nível, clicar nele, na aba Details selecione o PlayerPawn que deve ser o NPC que está lá  e o mesmo que foi configurado no Actor Class do arquivo
+-Caminho para execução do teste: Na aba do Level, ir na barra superior da telaa em Tools -> Session Frontend -> ir na aba Automation -> na lista procurar por "Project" e clicar no triangulo ao lado do nome, abrirá subcategoria: Functional Test, clicar nele, selecionar o Level,  e selecionar o arquivo de teste. 
+	-Após, apertar play na barra superior da aba Automation, o teste iniciará  a execução.
+
