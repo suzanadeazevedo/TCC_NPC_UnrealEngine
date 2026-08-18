@@ -77,7 +77,14 @@ Estão associados à qualidade e organização da solução
 ## Modelagem e Implementação da Inteligência Artificial
 
 ### Diagrama de Atividades:
+<div style="background-color: #f0f0f0; padding: 10px;"></div>
+![DiagramaAtividade](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png)
 
-![Diagrama_Atividades]("https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png")
+### Diagrama de Classes:
 
-![Nome](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png)
+![DiagramaClasses](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/UML%20CLASSES_Revisao.png)
+
+
+## Testes e Resultados
+
+### Teste Um:
