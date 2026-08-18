@@ -78,5 +78,6 @@ Estão associados à qualidade e organização da solução
 
 ### Diagrama de Atividades:
 
-![Diagrama_Atividades]("")
+![Diagrama_Atividades]("https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png")
 
+![Nome](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png)
