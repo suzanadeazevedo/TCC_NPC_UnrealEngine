@@ -78,11 +78,11 @@ Estão associados à qualidade e organização da solução
 
 ### Diagrama de Atividades:
 
-![DiagramaAtividade](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama_Atividades.png)
+![DiagramaAtividade](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/Diagrama%20de%20Atividade.png)
 
 ### Diagrama de Classes:
 
-![DiagramaClasses](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/UML%20CLASSES_Revisao.png)
+![DiagramaClasses](https://github.com/suzanadeazevedo/TCC_NPC_UnrealEngine/blob/main/TCC_BT%20-%20REVISADO%20-%20Projeto%20Base/img/UML%20CLASSES.png)
 
 
 ## Testes e Resultados
