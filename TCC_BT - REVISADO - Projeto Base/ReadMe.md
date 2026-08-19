@@ -279,6 +279,15 @@ VALADARES, Gabriel Pacini O.; RIBEIRO, Marcos Wagner S.. Técnicas de Inteligên
 
 Os personagens utilizados neste projeto foram criados pelo Kenney.
 
-Disponível em: 
+Disponível em:
+ 
 https://kenney.nl/assets/animated-characters-survivors. Acesso em: 20 dez. 2025.
+
 https://kenney.nl/assets/animated-characters-retro. Acesso em: 01 jul. 2026.
+
+As animações dos personagens foram feitas através do Mixamo.
+
+Disponível em:
+
+https://www.mixamo.com/#/. Acesso em: 20 dez. 2025.
+
